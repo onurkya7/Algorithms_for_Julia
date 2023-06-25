@@ -4,7 +4,7 @@ Julia is a high-performance, flexible language used for scientific and numerical
 
 There are 10 entry-level algorithms. Here is one of the sample algorithms:
 
-![exm](https://github.com/onurkya7/Algorithms_for_Julia/assets/100594545/ffa2b251-2f6b-49c9-aad4-3e18ba927dd8)
+![exm](https://github.com/onurkya7/Algorithms_for_Julia/assets/100594545/756c88f9-0027-4a3e-92ea-aa23c8bfecd9)
 
 Console output:
 
