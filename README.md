@@ -1,6 +1,8 @@
 # Algorithms_for_Julia
 
-Julia is a high-performance, flexible language used for scientific and numerical calculations. Julia is a programming language developed for data science and scientific calculations. In this share, an effective study has been created for people who want to enter the Julia programming language by giving example algorithms. Console outputs of the algorithms are also given in the file.
+- Julia is a high-performance, flexible language used for scientific and numerical calculations. Julia is a programming language developed for data science and scientific calculations. In this share, an effective study has been created for people who want to enter the Julia programming language by giving example algorithms. Console outputs of the algorithms are also given in the file.
+
+## Application
 
 There are 10 entry-level algorithms. Here is one of the sample algorithms:
 
