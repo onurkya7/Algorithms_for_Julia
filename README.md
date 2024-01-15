@@ -4,13 +4,13 @@
 
 ## Application
 
-There are 10 entry-level algorithms. Here is one of the sample algorithms:
+- There are 10 entry-level algorithms. Here is one of the sample algorithms:
 
 ![exm](https://github.com/onurkya7/Algorithms_for_Julia/assets/100594545/756c88f9-0027-4a3e-92ea-aa23c8bfecd9)
 
-Console output:
+- Console output:
 
 ![fib](https://github.com/onurkya7/Algorithms_for_Julia/assets/100594545/87cdcd91-d535-4dec-8e08-79d2e77f3cff)
 
-And at the end of the study, there is one final study. You can test these final observations in the julia explanation and observe what you do. You can share the observation results with my e-mail address.
+- And at the end of the study, there is one final study. You can test these final observations in the julia explanation and observe what you do. You can share the observation results with my e-mail address.
 Good luck..
